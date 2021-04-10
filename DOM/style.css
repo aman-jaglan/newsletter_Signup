@@ -1,0 +1,28 @@
+body{
+  text-align: center;
+  background-color: #393b44;
+  font-family: 'Shojumaru', cursive;
+  color: #158467;
+  position: relative;
+
+
+}
+p{
+  font-size: 2rem;
+}
+h1{
+  font-size: 6rem;
+}
+
+.player1{
+
+  width: 35%;
+  margin-left: 325px;
+  position: absolute;
+}
+.player2{
+
+  width: 35%;
+  margin-left: 625px;
+  position: absolute;
+}
